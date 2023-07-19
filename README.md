@@ -86,9 +86,11 @@
 
 
 ## Github Stats  
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=enamulhossain&show_icons=true&locale=en&layout=compact" alt="enamulhossain" /></p>
+<p><img align="left" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=enamulhossain&" alt="enamulhossain" /></p>  
 
-<p><img align="right" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=enamulhossain&" alt="enamulhossain" /></p>  
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=enamulhossain&show_icons=true&locale=en&layout=compact" alt="enamulhossain" /></p>
+<br/>  
+<br/>  
 
 
 
@@ -96,6 +98,7 @@
 
 <br/>  
 <br/>  
+
 <br/>  
 <br/>  
 <br/>  
