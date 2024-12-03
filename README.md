@@ -106,33 +106,25 @@
 
 
 
-## Github Stats  
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=enamulhossain&show_icons=true&locale=en&layout=compact" alt="enamulhossain" /></p>
-<br/>  
-<br/>  
+---
 
+### 📊 GitHub Stats  
 
-
-  
-
-<br/>  
-<br/>  
-
-<br/>  
-<br/>  
-<br/>  
-<br/>  <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=EnamulHossain&&style=flat-square" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=enamulhossain&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamulhossain&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
+</div>
 
-<br/>
+---
 
+### 🏆 GitHub Achievements  
 
-## Github Trophy
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=enamulhossain&theme=onestar&row=1" alt="GitHub Trophies"/>
+  </a>
+</div>
 
-<br/>  
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enamulhossain" alt="enamulhossain" /></a> </p>
-<br/>
+---
 
 
