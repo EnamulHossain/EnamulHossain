@@ -7,15 +7,14 @@
 <h3 align="center">Crafting Software Solutions | Full-Stack Developer 🌐</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/enamulhossain79" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/EnamulHossain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://stackoverflow.com/users/20836557" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
+ ### 🚀 About Me  
+
+- 🧑‍💻 **Software Engineer** specializing in **Full-Stack Development**.
+- 🌱 Currently sharpening my skills in **modern web technologies** like **React**, **Next.js**.  
+- 🎯 Passionate about creating robust, scalable, and user-friendly applications.  
+- 🤝 Open to collaborations and exciting projects—let's build something amazing!  
+
+---
 </p>
 
 <img align="right" alt="Coding" width="300" hight="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
