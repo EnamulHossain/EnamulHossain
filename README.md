@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </p>
-  <br/>  
+  
   <br/>  
 <img align="right" alt="Coding" width="300" hight="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
