@@ -43,11 +43,11 @@
 
 <td align="center" width="33%">
 <h3>🛠 Frameworks</h3>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/>
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js"/> -->
-<img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" height="50" alt="Next.js"/>
-<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel"/>
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
+<img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" height="40" alt="Next.js"/>
+<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="40" alt="Laravel"/>
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap"/>
 </td>
 
 <td align="center" width="33%">
@@ -55,7 +55,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/>
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB"/>
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase"/>
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase"/> -->
 </td>
 </tr>
 </table>
