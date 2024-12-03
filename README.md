@@ -41,7 +41,7 @@
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/> -->
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="34%">
 <h3>🛠 Frameworks</h3>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js"/> -->
