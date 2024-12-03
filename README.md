@@ -44,7 +44,7 @@
 <td align="center" width="33%">
 <h3>🛠 Frameworks</h3>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js"/>
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js"/> -->
 <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" height="50" alt="Next.js"/>
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel"/>
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
