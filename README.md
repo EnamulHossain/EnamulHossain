@@ -26,7 +26,7 @@
 - 🧑‍💻 **Software Engineer** specializing in **Full-Stack Development**.
   
 - 🌱 Currently sharpening my skills in **modern web technologies** like **React**, **Next.js**.
-- 
+  
 - 🎯 Passionate about creating robust, scalable, and user-friendly applications.
   
 - 🤝 Open to collaborations and exciting projects—let's build something amazing!  
