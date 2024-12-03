@@ -38,7 +38,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="50" alt="Go"/>
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C"/>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript"/>
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/> -->
 </td>
 
 <td align="center" width="33%">
