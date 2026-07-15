@@ -1,150 +1,101 @@
 <div align="center">
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" align="center" height="300" width="900" />
-</div>  
-  
+  <!-- Dynamic Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Enamul%20Hossain&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" width="100%" alt="Banner" />
 
-<h1 align="center">👨‍💻 Hello, I'm Enamul Hossain!</h1>
-<h3 align="center">Crafting Software Solutions | Full-Stack Developer 🌐</h3>
+  <br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/enamulhossain79" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2E87FB&center=true&vCenter=true&width=600&lines=Building+Software+Solutions;Crafting+AI-powered+Automations;Turning+Ideas+into+Code;Full-Stack+Web+Development" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/EnamulHossain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://stackoverflow.com/users/20836557" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</p>
-  
-  <br/>  
-<img align="right" alt="Coding" width="300" hight="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
-### 🚀 About Me  
-
-- 🧑‍💻 **Software Engineer** specializing in **Full-Stack Development**.
-- 🤖 Building **AI-powered automation workflows** with n8n, LangChain & LangFlow.
-- 🌱 Currently sharpening my skills in **modern web technologies & AI agents**.
-- 🎯 Passionate about creating robust, scalable, and user-friendly applications.
-- 🤝 Open to collaborations and exciting projects—let's build something amazing! 
----   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
-
-
-### Languages  
-<div align="center">  
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  </a>  
-
-  <a href="https://www.php.net/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-  </a>  
-
-  <a href="https://go.dev/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-  </a>  
-
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>  
-
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### Frameworks  
-<div align="center">  
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img style="margin: 10px" src="https://gin-gonic.com/_astro/gin.D6H2T_2v_hOrNd.webp" alt="Gin" height="50" />
-  </a>  
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  </a>  
-
-  <a href="https://laravel.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-  </a>  
-
-  <a href="https://nextjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Next.js" height="50" />
-  </a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-
-### Libraries  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>
-
-
-
-</td><td valign="top" width="25%">
-
-### Databases  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/enamulhossain79" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/enamulhossain00" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/EnamulHossain" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enamulhossain&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamulhossain&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
+  <!-- Social Badges -->
+  <div align="center" style="margin-top: 15px;">
+    <a href="https://linkedin.com/in/enamulhossain79" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/EnamulHossain" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://stackoverflow.com/users/20836557" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    </a>
+    <a href="https://www.facebook.com/enamulhossain00" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-### 🏆 GitHub Achievements  
+### 👨‍💻 About Me
+
+Hi there! 👋 I am a **Software Engineer** specializing in **Full-Stack Development**. I am passionate about crafting robust, scalable, and user-friendly software solutions that solve real-world problems.
+
+- 🏗️ Currently focusing on **modern web technologies** and **AI agents**.
+- 🤖 Experienced in building **AI-powered automation workflows** using **n8n, LangChain, & LangFlow**.
+- 💡 I love exploring new tools and optimizing architectures for better performance.
+- 🤝 Always open to collaborations and exciting projects. Let's build something amazing!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  **Languages** <br/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <br/> <br/>
+  
+  **Frontend & Frameworks** <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+  <br/> <br/>
+  
+  **Backend & Frameworks** <br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+  
+  <br/> <br/>
+  
+  **Databases** <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enamulhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enamulhossain&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamulhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enamulhossain&theme=onestar&row=1" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=enamulhossain&theme=tokyonight&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </div>
 
----
+<br/>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" width="100%" alt="Footer" />
+</div>
