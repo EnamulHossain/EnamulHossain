@@ -74,6 +74,14 @@ Hi there! 👋 I am a **Software Engineer** specializing in **Full-Stack Develop
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 AI & Automation</h3>
+      <img src="https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=chainlink&logoColor=black" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    </td>
+  </tr>
 </table>
 
 ---
