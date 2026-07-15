@@ -26,13 +26,10 @@
 ### 🚀 About Me  
 
 - 🧑‍💻 **Software Engineer** specializing in **Full-Stack Development**.
-  
-- 🌱 Currently sharpening my skills in **modern web technologies**.
-  
+- 🤖 Building **AI-powered automation workflows** with n8n, LangChain & LangFlow.
+- 🌱 Currently sharpening my skills in **modern web technologies & AI agents**.
 - 🎯 Passionate about creating robust, scalable, and user-friendly applications.
-  
-- 🤝 Open to collaborations and exciting projects—let's build something amazing!  
-
+- 🤝 Open to collaborations and exciting projects—let's build something amazing! 
 ---   
   
 
@@ -43,13 +40,27 @@
 <table><tr><td valign="top" width="25%">
 
 
-
 ### Languages  
 <div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </a>  
+
+  <a href="https://www.php.net/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+  </a>  
+
+  <a href="https://go.dev/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+  </a>  
+
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>  
+
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>  
 </div>
 
 </td><td valign="top" width="25%">
@@ -58,11 +69,21 @@
 
 ### Frameworks  
 <div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<!-- <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>   -->
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Next.js" height="50" /></a>  
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img style="margin: 10px" src="https://gin-gonic.com/_astro/gin.D6H2T_2v_hOrNd.webp" alt="Gin" height="50" />
+  </a>  
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+  </a>  
+
+  <a href="https://laravel.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+  </a>  
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Next.js" height="50" />
+  </a>  
 </div>
 
 </td><td valign="top" width="25%">
@@ -100,9 +121,6 @@
 </a>
 <a href="https://github.com/EnamulHossain" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/20836557" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
