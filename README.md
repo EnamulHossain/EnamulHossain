@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Enamul%20Hossain&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Enamul%20Hossain&fontSize=70&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=20&animation=twinkling" width="100%" alt="Banner" />
 
   <br/>
 
