@@ -23,58 +23,67 @@
 
 <br/>
 
-<!-- ABOUT + AT A GLANCE (2-COLUMN ALIGNED LAYOUT) -->
-<table>
-  <tr>
-    <td width="63%" valign="top">
-      <h3>👋 About Me</h3>
-      <p align="justify">
-        <strong>I help businesses replace slow, manual operations with reliable, AI-powered systems that run on their own.</strong>
-      </p>
-      <p align="justify">
-        I'm an <strong>AI Automation Engineer</strong>. I design and build end-to-end automations that remove repetitive work and connect the tools a business already uses: AI agents for customer support and internal operations, automated approval pipelines, lead capture and enrichment, and real-time sync between CRMs, databases, and apps.
-      </p>
-      <p align="justify">
-        I orchestrate workflows with <strong>n8n, Make.com, Zapier, and GoHighLevel</strong>, and add intelligence with <strong>OpenAI, Claude, Gemini, and LangChain</strong>: classifying requests, drafting replies, extracting data from documents, and making decisions inside the workflow.
-      </p>
-      <p align="justify">
-        Behind that sits <strong>5+ years of production full-stack and backend engineering</strong> in <strong>PHP (Laravel), Go (Gin), and React/Next.js</strong>. When a no-code tool hits its limits, I write the custom API, webhook, or service it needs. Every automation I ship has proper error handling, retries, queues, and data validation, so it keeps working in production instead of breaking quietly.
-      </p>
-    </td>
-    <td width="37%" valign="top">
-      <h3>📌 At a Glance</h3>
-      <table>
-        <tr>
-          <td><strong>🎯 Role</strong></td>
-          <td>AI Automation Engineer</td>
-        </tr>
-        <tr>
-          <td><strong>🧠 Specialty</strong></td>
-          <td>AI Agents, Workflow Automation &amp; System Integrations</td>
-        </tr>
-        <tr>
-          <td><strong>⚙️ Automation</strong></td>
-          <td>n8n · Make.com · Zapier · GoHighLevel</td>
-        </tr>
-        <tr>
-          <td><strong>🤖 AI Stack</strong></td>
-          <td>OpenAI · Claude · Gemini · LangChain</td>
-        </tr>
-        <tr>
-          <td><strong>💻 Engineering</strong></td>
-          <td>Php (Laravel) · Go (Gin) · React/Next.js</td>
-        </tr>
-        <tr>
-          <td><strong>📈 Experience</strong></td>
-          <td>5+ years in production software</td>
-        </tr>
-        <tr>
-          <td><strong>🟢 Availability</strong></td>
-          <td>Open to full-time roles &amp; freelance projects</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<!-- ABOUT ME -->
+## 👋 About Me
+
+**I help businesses replace slow, manual operations with reliable, AI-powered systems that run on their own.**
+
+I'm an **AI Automation Engineer**. I design and build end-to-end automations that remove repetitive work and connect the tools a business already uses: AI agents for customer support and internal operations, automated approval pipelines, lead capture and enrichment, and real-time sync between CRMs, databases, and apps.
+
+I orchestrate workflows with **n8n, Make.com, Zapier, and GoHighLevel**, and add intelligence with **OpenAI, Claude, Gemini, and LangChain**: classifying requests, drafting replies, extracting data from documents, and making decisions inside the workflow.
+
+Behind that sits **5+ years of production full-stack and backend engineering** in **PHP (Laravel), Go (Gin), and React/Next.js**. When a no-code tool hits its limits, I write the custom API, webhook, or service it needs. Every automation I ship has proper error handling, retries, queues, and data validation, so it keeps working in production instead of breaking quietly.
+
+<br/>
+
+<!-- AT A GLANCE -->
+### 📌 At a Glance
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="5%" align="center"></th>
+      <th width="22%" align="left">Key Area</th>
+      <th width="73%" align="left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🎯</td>
+      <td><strong>Role</strong></td>
+      <td>AI Automation Engineer</td>
+    </tr>
+    <tr>
+      <td align="center">🧠</td>
+      <td><strong>Specialty</strong></td>
+      <td>AI Agents, Workflow Automation &amp; System Integrations</td>
+    </tr>
+    <tr>
+      <td align="center">⚙️</td>
+      <td><strong>Automation</strong></td>
+      <td>n8n · Make.com · Zapier · GoHighLevel</td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><strong>AI Stack</strong></td>
+      <td>OpenAI · Claude · Gemini · LangChain</td>
+    </tr>
+    <tr>
+      <td align="center">💻</td>
+      <td><strong>Engineering</strong></td>
+      <td>Php (Laravel) · Go (Gin) · React/Next.js</td>
+    </tr>
+    <tr>
+      <td align="center">📈</td>
+      <td><strong>Experience</strong></td>
+      <td>5+ years in production software</td>
+    </tr>
+    <tr>
+      <td align="center">🟢</td>
+      <td><strong>Availability</strong></td>
+      <td>Open to full-time roles &amp; freelance projects</td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
