@@ -29,37 +29,48 @@
     <td width="63%" valign="top">
       <h3>👋 About Me</h3>
       <p align="justify">
-        <strong>I turn slow, manual business operations into reliable systems that run on their own.</strong>
+        <strong>I help businesses replace slow, manual operations with reliable, AI-powered systems that run on their own.</strong>
       </p>
       <p align="justify">
-        As an <strong>AI Automation Engineer</strong>, I design end-to-end workflows that eliminate repetitive busywork—from AI support and operations agents to automated approval pipelines, lead enrichment systems, and real-time CRM/database syncs.
+        I'm an <strong>AI Automation Engineer</strong>. I design and build end-to-end automations that remove repetitive work and connect the tools a business already uses: AI agents for customer support and internal operations, automated approval pipelines, lead capture and enrichment, and real-time sync between CRMs, databases, and apps.
       </p>
       <p align="justify">
-        What separates my automations from fragile no-code scripts is what sits underneath: <strong>5+ years of production full-stack and backend engineering</strong> in <strong>PHP (Laravel), Go (Gin), and React/Next.js</strong>. I build automations on clean APIs, queues, retries, and strict validation—so they hold up in real production environments.
+        I orchestrate workflows with <strong>n8n, Make.com, Zapier, and GoHighLevel</strong>, and add intelligence with <strong>OpenAI, Claude, Gemini, and LangChain</strong>: classifying requests, drafting replies, extracting data from documents, and making decisions inside the workflow.
+      </p>
+      <p align="justify">
+        Behind that sits <strong>5+ years of production full-stack and backend engineering</strong> in <strong>PHP (Laravel), Go (Gin), and React/Next.js</strong>. When a no-code tool hits its limits, I write the custom API, webhook, or service it needs. Every automation I ship has proper error handling, retries, queues, and data validation, so it keeps working in production instead of breaking quietly.
       </p>
     </td>
     <td width="37%" valign="top">
       <h3>📌 At a Glance</h3>
       <table>
         <tr>
-          <td><strong>Role</strong></td>
+          <td><strong>🎯 Role</strong></td>
           <td>AI Automation Engineer</td>
         </tr>
         <tr>
-          <td><strong>Core Focus</strong></td>
-          <td>AI Agents, n8n &amp; Custom APIs</td>
+          <td><strong>🧠 Specialty</strong></td>
+          <td>AI Agents, Workflow Automation &amp; System Integrations</td>
         </tr>
         <tr>
-          <td><strong>Experience</strong></td>
-          <td>5+ Years (Backend → AI)</td>
+          <td><strong>⚙️ Automation</strong></td>
+          <td>n8n · Make.com · Zapier · GoHighLevel</td>
         </tr>
         <tr>
-          <td><strong>Location</strong></td>
-          <td>Dhaka, Bangladesh (Remote)</td>
+          <td><strong>🤖 AI Stack</strong></td>
+          <td>OpenAI · Claude · Gemini · LangChain</td>
         </tr>
         <tr>
-          <td><strong>Status</strong></td>
-          <td>🟢 Open to Full-Time &amp; Projects</td>
+          <td><strong>💻 Engineering</strong></td>
+          <td>Php (Laravel) · Go (Gin) · React/Next.js</td>
+        </tr>
+        <tr>
+          <td><strong>📈 Experience</strong></td>
+          <td>5+ years in production software</td>
+        </tr>
+        <tr>
+          <td><strong>🟢 Availability</strong></td>
+          <td>Open to full-time roles &amp; freelance projects</td>
         </tr>
       </table>
     </td>
@@ -69,33 +80,52 @@
 <br/>
 
 <!-- WHAT I AUTOMATE -->
+
 ## ⚡ What I Build & Automate
 
-| | Capability | Business Outcome |
-| :---: | :--- | :--- |
-| 🤖 | **AI Agents & Smart Chatbots** | Context-aware AI agents and WhatsApp/web bots that query live databases, qualify leads, draft accurate replies, and trigger actions in seconds. |
-| 🔄 | **Operations & Approval Workflows** | Automated multi-stage approvals, HR/onboarding flows, KPI reporting, and scheduled tasks that eliminate manual follow-ups. |
-| 📄 | **Document & Data Pipelines** | Automated extraction, cleaning, classification, and enrichment from emails, PDFs, and web sources straight into your CRM, Sheets, or SQL database. |
-| 🔗 | **Cross-App & API Integrations** | Production n8n, Make, Zapier, and custom webhook pipelines connecting payment gateways, CRMs, and internal tools with zero copy-paste. |
-| 🧩 | **Production Backend Foundations** | High-throughput Laravel and Go (Gin/gRPC) microservices, Redis queues, and AWS/Docker deployments built to support scale. |
+|     | Capability                          | What I Deliver                                                                                                                                                             | Business Impact                                                                        |
+| :-: | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| 🤖  | **AI Agents & Chatbots**            | AI agents for web, WhatsApp, and internal teams that use your live business data to answer questions, qualify leads, draft replies, and take actions in connected systems. | Faster responses, around-the-clock coverage, and less load on support and sales teams. |
+| 🔄  | **Operations & Approval Workflows** | Multi-step approval chains, HR and onboarding flows, scheduled reports, and task routing with automatic reminders and escalations.                                         | No manual follow-ups, clear accountability, and fewer delays between steps.            |
+| 📈  | **CRM & Sales Automation**          | Lead capture, enrichment, scoring, and nurture sequences in GoHighLevel and other CRMs, with pipelines that update themselves.                                             | Fewer lost leads, consistent follow-up, and accurate pipeline data.                    |
+| 📄  | **Document & Data Pipelines**       | AI-assisted extraction, cleaning, and classification of data from emails, PDFs, forms, and websites, delivered to your CRM, Google Sheets, or SQL database.                | Removes manual data entry and the errors that come with it.                            |
+| 🔗  | **System Integrations**             | Reliable connections between CRMs, payment gateways, and internal tools using n8n, Make.com, Zapier, webhooks, and custom APIs.                                            | One consistent source of truth, with no copy-paste between apps.                       |
+| 🧩  | **Custom Backend Engineering**      | Php (Laravel) and Go (Gin/gRPC) services, Redis queues, and Docker/AWS deployments for the cases where no-code tools are not enough.                                       | Automations that handle real volume and keep running as the business grows.            |
 
 <br/>
 
 <!-- ARCHITECTURE FLOW -->
+
 ## 🔄 Production Automation Architecture
+
+A blueprint behind workflow I deliver: AI handles the routine work, built-in safeguards protect your data, and people step in only when it matters.
 
 ```mermaid
 flowchart LR
-    A["📩 Trigger<br/>Webhook · WhatsApp · Email · Cron"] --> B["⚙️ Orchestration<br/>n8n · Go / Laravel API"]
-    B --> C["🧠 AI Intelligence<br/>LLM Extraction · Routing · Scoring"]
-    C --> D{"✅ Validation<br/>& Retries"}
-    D -- "Pass" --> E["🗄️ Execution<br/>CRM · SQL · Auto-Reply · Slack"]
-    D -- "Edge Case" --> F["🚨 Fallback<br/>Error Log & Human Review"]
+    A["📩 <b>Trigger</b><br/>Webhook · Form · WhatsApp<br/>Email · Schedule"] --> B["⚙️ <b>Orchestration</b><br/>n8n · Make.com<br/>Laravel / Go API"]
+    B --> C["🧠 <b>AI Processing</b><br/>Extract · Classify<br/>Score · Draft"]
+    C --> D{"✅ <b>Validation</b><br/>Schema & business rules"}
+    D -- "Valid" --> E["🚀 <b>Action</b><br/>CRM · Database · Reply<br/>Slack · Email"]
+    D -- "Low confidence" --> F["👤 <b>Human Review</b><br/>Approve or correct"]
+    F --> E
+    D -- "Error" --> G["🔁 <b>Retry & Alert</b><br/>Backoff · Error queue<br/>Team notification"]
+    G -. "Retry" .-> B
+    E --> H["📊 <b>Monitoring</b><br/>Logs · Audit trail · Metrics"]
 ```
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>🛡️ Validated</strong><br/><sub>AI output is checked against schemas and business rules before it reaches any system.</sub></td>
+    <td width="25%" valign="top"><strong>👤 Human-in-the-loop</strong><br/><sub>Uncertain or high-impact cases go to a person for approval instead of being guessed.</sub></td>
+    <td width="25%" valign="top"><strong>🔁 Fault-tolerant</strong><br/><sub>Retries with backoff, error queues, and alerts mean failures are never silent.</sub></td>
+    <td width="25%" valign="top"><strong>📊 Observable</strong><br/><sub>Every run is logged and auditable, so issues are easy to trace and fix.</sub></td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- TECH STACK (2x2 SYMMETRICAL GRID) -->
+
 ## 🛠️ Tech Stack
 
 <table>
@@ -151,68 +181,124 @@ flowchart LR
 <br/>
 
 <!-- FEATURED WORK -->
+
 ## 🚀 Featured Systems & Projects
 
-| Project | Architecture &amp; Impact | Stack |
-| :--- | :--- | :--- |
-| 📱 **Gizora — Tech Spec &amp; AI Platform** | Mobile and laptop specification platform powered by AI agents for automated spec ingestion, structured product comparisons, and user assistance. | `Laravel` `Next.js` `AI Agents` |
-| 🏢 **Enterprise HRM Automation Suite** | Multi-tenant HRM system featuring multi-stage approval workflows, KPI dashboards, QR-verified certificate pipelines, IT asset linking, and role-scoped financial controls. | `PHP` `Laravel` `MySQL` `REST` |
-| ⚡ **Event-Driven Real-Time Backend** | High-concurrency backend architecture utilizing asynchronous queues, pub/sub event routing, and low-latency communication. | `Go` `Gin` `gRPC` `Redis` |
-| 🎟️ **oWorld — Events &amp; Offers Platform** | Full-stack discovery platform allowing users to browse, save, and manage local deals and events through a clean REST API. | `Laravel` `React` `MySQL` |
-| ☁️ **Automated Cloud Infrastructure** | Containerized cloud setup with automated monitoring, centralized logging, and repeatable deployment workflows. | `AWS` `Docker` `CI/CD` |
+<p><i>A selection of production systems I have designed and built, from AI-powered platforms to the backend infrastructure that keeps them running.</i></p>
+
+| Project                                                                              | What It Does                                                                                                                                                                | Stack                                        |
+| :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| 💬 **AI Support Agent**<br/><sub>WhatsApp &amp; Web Helpdesk</sub>                   | Answers customer questions from a company knowledge base and live order data, creates tickets, and hands complex cases to a human with full conversation context.           | `n8n` `OpenAI` `LangChain` `Laravel`         |
+| 🎯 **Lead Engine**<br/><sub>Capture, Enrich &amp; Qualify</sub>                      | Captures leads from forms, ads, and email, enriches them with company data, scores them with AI, and routes qualified leads into GoHighLevel with automated follow-up.      | `GoHighLevel` `Make.com` `Claude` `Webhooks` |
+| 📄 **Document Intelligence Pipeline**<br/><sub>Invoices, Forms &amp; Contracts</sub> | Extracts structured data from PDFs and emails, validates it against business rules, and writes it to Google Sheets or SQL, with low-confidence items sent for human review. | `n8n` `Gemini` `Go` `PostgreSQL`             |
+| ✅ **Approval Workflow Engine**<br/><sub>Multi-Stage Business Approvals</sub>        | Configurable approval chains for purchases, leave, and expenses, with Slack and email actions, reminders, escalations, and a full audit trail.                              | `Laravel` `Redis` `n8n` `Slack API`          |
 
 <p align="right">
   <sub>👉 Explore full case studies at <a href="https://enamulhossain.com"><strong>enamulhossain.com</strong></a></sub>
 </p>
-
 <br/>
 
-<!-- ENGINEERING METHODOLOGY (3-COLUMN EQUAL GRID) -->
+<!-- ENGINEERING METHODOLOGY (STEP ROADMAP) -->
+
 ## 🧭 How I Work
 
-<table>
+<p align="center">
+  <b>From manual workflow to reliable, live automation.</b>
+</p>
+
+<table align="center">
   <tr>
-    <td width="33.3%" valign="top">
-      <h4>01 · Map &amp; Architect</h4>
-      <p>Identify the exact operational bottleneck first, then design clean APIs, webhooks, and schemas built to scale.</p>
+    <td align="center" valign="top" width="22%">
+      <h2>🔍</h2>
+      <img src="https://img.shields.io/badge/01_DISCOVER-6366F1?style=for-the-badge" alt="01 DISCOVER" /><br/>
+      <sub>Find where time<br/>&amp; money are lost</sub>
     </td>
-    <td width="33.3%" valign="top">
-      <h4>02 · Build for Reliability</h4>
-      <p>Implement queues, retries, structured logging, and fallback alerts so workflows handle edge cases without silent failures.</p>
+    <td align="center" valign="middle" width="4%"><h2>➜</h2></td>
+    <td align="center" valign="top" width="22%">
+      <h2>📐</h2>
+      <img src="https://img.shields.io/badge/02_BLUEPRINT-0EA5E9?style=for-the-badge" alt="02 BLUEPRINT" /><br/>
+      <sub>Design the system<br/>with fixed scope</sub>
     </td>
-    <td width="33.3%" valign="top">
-      <h4>03 · Automate &amp; Measure</h4>
-      <p>Ship end-to-end AI pipelines that save hours every week, cut human error, and keep business data clean across tools.</p>
+    <td align="center" valign="middle" width="4%"><h2>➜</h2></td>
+    <td align="center" valign="top" width="22%">
+      <h2>⚡</h2>
+      <img src="https://img.shields.io/badge/03_BUILD-F59E0B?style=for-the-badge" alt="03 BUILD" /><br/>
+      <sub>AI automation,<br/>tested on real data</sub>
+    </td>
+    <td align="center" valign="middle" width="4%"><h2>➜</h2></td>
+    <td align="center" valign="top" width="22%">
+      <h2>🚀</h2>
+      <img src="https://img.shields.io/badge/04_LAUNCH-10B981?style=for-the-badge" alt="04 LAUNCH" /><br/>
+      <sub>Live, monitored<br/>&amp; team-ready</sub>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <sub><b>✅ Clear scope</b> &nbsp;·&nbsp; <b>✅ Regular updates</b> &nbsp;·&nbsp; <b>✅ Production-grade</b> &nbsp;·&nbsp; <b>✅ Post-launch support</b></sub>
+</p>
+
 <br/>
 
 <!-- EXPERIENCE & EDUCATION -->
+
 ## 💼 Experience & Education
 
-| Period | Role &amp; Organization | Key Impact |
-| :--- | :--- | :--- |
-| **2026 – Present** | **AI Automation Engineer** · Independent / Open to Roles | Designing AI agents, n8n/Make workflow automations, and custom API integrations for modern teams. |
-| **2023 – Present** | **Software Engineer** · Versatilo Group | Built enterprise HRM modules including multi-stage approval flows, KPI dashboards, QR certificate verification, IT asset linking, and branch-scoped access controls. |
-| **2022 – 2023** | **Backend Developer** · Codemen | Engineered scalable backend web applications, REST APIs, and search/performance optimizations for production platforms. |
-| **2021 – 2022** | **Backend Developer** · Rapid It Ltd | Developed core backend APIs, database architectures, and third-party service integrations. |
-| **Education** | **B.Sc. in Computer Science &amp; Engineering** | North Western University |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="22%" align="left">Period</th>
+      <th width="28%" align="left">Role</th>
+      <th width="50%" align="left">Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><strong>2026&nbsp;–&nbsp;Present</strong></td>
+      <td valign="top"><strong>AI Automation Engineer</strong><br/><sub>Independent</sub></td>
+      <td valign="top">AI agents, n8n/Make.com workflows, and custom API integrations for businesses.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>2023&nbsp;–&nbsp;Present</strong></td>
+      <td valign="top"><strong>Software Engineer</strong><br/><sub>Versatilo Group</sub></td>
+      <td valign="top">Enterprise HRM platform: approval workflows, KPI dashboards, QR certificate verification, and role-based access.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>2022&nbsp;–&nbsp;2023</strong></td>
+      <td valign="top"><strong>Backend Developer</strong><br/><sub>Codemen</sub></td>
+      <td valign="top">Scalable web applications, REST APIs, and search and performance optimization.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>2021&nbsp;–&nbsp;2022</strong></td>
+      <td valign="top"><strong>Backend Developer</strong><br/><sub>Rapid IT Ltd</sub></td>
+      <td valign="top">Core backend APIs, database design, and third-party integrations.</td>
+    </tr>
+  </tbody>
+</table>
+
+🎓 **B.Sc. in Computer Science & Engineering** · North Western University
 
 <br/>
 
 <!-- GITHUB ANALYTICS -->
-## 📊 GitHub Analytics
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=EnamulHossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Enamul's GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EnamulHossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=enamulhossain&theme=tokyonight&hide_border=true&background=0D1117" alt="Enamul's Streak Stats" />
 </div>
+
+<!-- <div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enamulhossain&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Enamul's Contribution Graph" width="100%" />
+</div> -->
 
 <br/>
 
 <!-- FOOTER -->
 <div align="center">
+  <p>
+    🤝 <b>Need something automated?</b> Email <a href="mailto:enamulhossain79@gmail.com"><b>enamulhossain79@gmail.com</b></a> &nbsp;·&nbsp; message me on <a href="https://wa.me/8801937686568"><b>WhatsApp</b></a> &nbsp;·&nbsp; or visit <a href="https://enamulhossain.com/"><b>enamulhossain.com</b></a>
+  </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E293B,100:0F172A&height=95&section=footer" width="100%" alt="Footer Banner" />
 </div>
